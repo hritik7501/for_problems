@@ -1,3 +1,6 @@
+#print_prime_no_m_to_n
+
+
 #!/bin/bash -x
 echo enter m and n
 read m n
